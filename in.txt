@@ -1,0 +1,7 @@
+3
+red
+white
+blue
+1
+hello
+0
